@@ -5,22 +5,30 @@
       <map>
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/backbutton.xml" value="0.2703125" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/circle_green.xml" value="0.1296875" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_attachment.xml" value="0.2703125" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_camera.xml" value="0.2703125" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.2703125" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/textbox_outline.xml" value="0.24583333333333332" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_chat.xml" value="0.2536231884057971" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_otpactivity.xml" value="0.264" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_phone_number.xml" value="0.264" />
         <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_profile.xml" value="0.264" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Mukul Kolpe/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/topmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/gradient_color.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_call.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_search.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_send.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_status.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/ic_video.xml" value="0.26875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_chat.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_otpactivity.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_phone_number.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/row_conversation.xml" value="0.536" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/topmenu.xml" value="0.2526041666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
